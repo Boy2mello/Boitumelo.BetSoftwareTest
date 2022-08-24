@@ -1,0 +1,12 @@
+C:\Projects\.Net\Boitumelo.BetSoftware\Boitumelo.BetSoftwareDataAccess\bin\Debug\net6.0\Boitumelo.BetSoftwareDataAccess.deps.json
+C:\Projects\.Net\Boitumelo.BetSoftware\Boitumelo.BetSoftwareDataAccess\bin\Debug\net6.0\Boitumelo.BetSoftwareDataAccess.dll
+C:\Projects\.Net\Boitumelo.BetSoftware\Boitumelo.BetSoftwareDataAccess\bin\Debug\net6.0\Boitumelo.BetSoftwareDataAccess.pdb
+C:\Projects\.Net\Boitumelo.BetSoftware\Boitumelo.BetSoftwareDataAccess\obj\Debug\net6.0\Boitumelo.BetSoftwareDataAccess.csproj.AssemblyReference.cache
+C:\Projects\.Net\Boitumelo.BetSoftware\Boitumelo.BetSoftwareDataAccess\obj\Debug\net6.0\Boitumelo.BetSoftwareDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\.Net\Boitumelo.BetSoftware\Boitumelo.BetSoftwareDataAccess\obj\Debug\net6.0\Boitumelo.BetSoftwareDataAccess.AssemblyInfoInputs.cache
+C:\Projects\.Net\Boitumelo.BetSoftware\Boitumelo.BetSoftwareDataAccess\obj\Debug\net6.0\Boitumelo.BetSoftwareDataAccess.AssemblyInfo.cs
+C:\Projects\.Net\Boitumelo.BetSoftware\Boitumelo.BetSoftwareDataAccess\obj\Debug\net6.0\Boitumelo.BetSoftwareDataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\.Net\Boitumelo.BetSoftware\Boitumelo.BetSoftwareDataAccess\obj\Debug\net6.0\Boitumelo.BetSoftwareDataAccess.dll
+C:\Projects\.Net\Boitumelo.BetSoftware\Boitumelo.BetSoftwareDataAccess\obj\Debug\net6.0\refint\Boitumelo.BetSoftwareDataAccess.dll
+C:\Projects\.Net\Boitumelo.BetSoftware\Boitumelo.BetSoftwareDataAccess\obj\Debug\net6.0\Boitumelo.BetSoftwareDataAccess.pdb
+C:\Projects\.Net\Boitumelo.BetSoftware\Boitumelo.BetSoftwareDataAccess\obj\Debug\net6.0\ref\Boitumelo.BetSoftwareDataAccess.dll

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="c096c04b-1f84-40e4-9272-1dd5728849af" ChangeDateTime="08/16/2022 12:53:51">
+    <Property Name="ElementName" Value="[dbo].[Order].[EmployeeId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Order]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="SalesPersonId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a456b604-efcf-41ed-b093-325bdef4d168" ChangeDateTime="08/16/2022 12:56:44">
+    <Property Name="ElementName" Value="[dbo].[Payment].[CreditCardNumber]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Payment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="CardNumber" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="200dbdec-54a6-436e-b3f2-c6318c6d15ee" ChangeDateTime="08/16/2022 12:57:01">
+    <Property Name="ElementName" Value="[dbo].[Payment].[Credit]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Payment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="CardExpiryDate" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="381e63cf-07d4-47e4-a5fa-49c2eb9b8f3e" ChangeDateTime="08/16/2022 13:38:16">
+    <Property Name="ElementName" Value="[dbo].[ShippingMethod].[CardHolderName]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ShippingMethod]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ShippingMethod" />
+  </Operation>
+</Operations>
